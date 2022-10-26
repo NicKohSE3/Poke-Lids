@@ -1,6 +1,6 @@
 # Kurashiki
 ## 197
-![197](同じです、私は彼のことを前に聞いたことがあります笑 "197")
+![197](https://local.pokemon.jp/img/p/manhole/57b32929e283717a3c17bf5694ee5331_l.png "197")
 ### Pokémon Featured: Unfezant
 ### Coordinates: 34.59829, 133.77029
 ---
