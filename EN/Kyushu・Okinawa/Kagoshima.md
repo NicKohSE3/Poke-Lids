@@ -27,7 +27,7 @@
 ## 4
 ![4](https://local.pokemon.jp/img/p/manhole/3b15f5b988170e1ac987781317e3e6c4_l.png "4")
 ### Pokémon Featured: Flareon
-### Coordinates: 31.229417,130.651972
+### Coordinates: 31.229417, 130.651972
 ---
 ## 3
 ![3](https://local.pokemon.jp/img/p/manhole/5c4e9fb2f499dee2fd8206c9a0926294_l.png "3")

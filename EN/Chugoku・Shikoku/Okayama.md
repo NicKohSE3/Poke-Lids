@@ -17,5 +17,5 @@
 ## 194
 ![194](https://local.pokemon.jp/img/p/manhole/12a7f3eb91387a2de15ce4a4d07b76d9_l.png "194")
 ### Pokémon Featured: Lucario
-### Coordinates: 34.43427,133.81388
+### Coordinates: 34.43427, 133.81388
 ---
