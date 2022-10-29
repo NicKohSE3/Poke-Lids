@@ -2,7 +2,7 @@
 ## 152
 ![152](https://local.pokemon.jp/img/p/manhole/cf516896b4b7eb0cad8e8e3eeebbc99f_l.png "152")
 ### Pokémon Featured: Entei
-### Coordinates: 34.60983,135.73529
+### Coordinates: 34.60983, 135.73529
 ---
 ## 151
 ![151](https://local.pokemon.jp/img/p/manhole/d0bfb7bbc2a06d730b47b017a3e77cf7_l.png "151")
