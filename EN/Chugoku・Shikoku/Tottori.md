@@ -90,7 +90,7 @@
 ---
 # Sakaiminato
 ## 77
-![77](Sakaiminato "77")
+![77](https://local.pokemon.jp/img/p/manhole/f6da3dcbdb1a5e3805efeae1aed62a31_l.png "77")
 ### Pokémon Featured: Sandshrew, Alolan Sandshrew, Krabby
 ### Coordinates: 35.521481, 133.258356
 ---

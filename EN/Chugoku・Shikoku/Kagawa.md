@@ -54,7 +54,7 @@
 ---
 # Mitoyo
 ## 35
-![35](統計が取れない時の鳴き声が可愛い笑 "35")
+![35](https://local.pokemon.jp/img/p/manhole/b28655a215e13414ed57362a65800eef_l.png "35")
 ### Pokémon Featured: Slowpoke, Shellder
 ### Coordinates: 34.268799, 133.632222
 ---
