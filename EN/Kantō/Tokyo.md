@@ -6,7 +6,7 @@
 ---
 ## 172
 ![172](https://local.pokemon.jp/img/p/manhole/461c1ae602ab3848aaa395fd03e5fa00_l.png "172")
-### Pokémon Featured: Tyrunt
+### Pokémon Featured: Tyrunt, Wynaut
 ### Coordinates: 35.71681, 139.776397
 ---
 # Ogasawara
