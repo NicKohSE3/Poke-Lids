@@ -6,7 +6,7 @@
 ---
 ## 151
 ![151](https://local.pokemon.jp/img/p/manhole/d0bfb7bbc2a06d730b47b017a3e77cf7_l.png "151")
-### Pokémon Featured: Fletchinder
+### Pokémon Featured: Fletchinder, Deerling
 ### Coordinates: 34.60826, 135.73755
 ---
 ## 150
