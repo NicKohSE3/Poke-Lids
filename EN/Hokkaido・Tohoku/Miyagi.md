@@ -176,7 +176,7 @@
 ## 49
 ![49](https://local.pokemon.jp/img/p/manhole/21ee5b603bbc503949a5160aac6211c9_l.png "49")
 ### Pokémon Featured: Pokémon Featured
-### Coordinates: Coordinates
+### Coordinates: 38.368987, 141.061207
 ---
 # Higashimatsushima
 ## 48
