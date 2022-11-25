@@ -1,3 +1,57 @@
+# Miharu
+## 287
+![287](https://local.pokemon.jp/img/p/manhole/726c846d91cf52f7516cf1e6401637b7_l.png "287")
+### Pokémon Featured: Chansey, Roserade
+### Coordinates: 37.4433, 140.49124
+---
+# Furudono
+## 286
+![286](https://local.pokemon.jp/img/p/manhole/2b62ebefd99578ba22804a9f3d8cbd5e_l.png "286")
+### Pokémon Featured: Chansey, Blissey
+### Coordinates: 37.093175, 140.529749
+---
+# Yabuki
+## 285
+![285](https://local.pokemon.jp/img/p/manhole/2602675c5b001db979a74bfda76749aa_l.png "285")
+### Pokémon Featured: Chansey, Talonflame
+### Coordinates: 37.21842, 140.335635
+---
+# Nishigō
+## 284
+![284](https://local.pokemon.jp/img/p/manhole/1177578c6fc8b006e9b2e53ac8ea99cd_l.png "284")
+### Pokémon Featured: Chansey, Wooper
+### Coordinates: 37.1399, 140.15467
+---
+# Aizumisato
+## 283
+![283](https://local.pokemon.jp/img/p/manhole/0f281a785f667a4ee9bac0d93500476a_l.png "283")
+### Pokémon Featured: Chansey, Lilligant
+### Coordinates: 37.455169, 139.840297
+---
+# Inawashiro
+## 282
+![282](https://local.pokemon.jp/img/p/manhole/2472c4c2415ec4c71ca043ba35fbbd1b_l.png "282")
+### Pokémon Featured: Chansey, Grotle, Swanna
+### Coordinates: 37.538118, 140.107717
+---
+# Kitashiobara
+## 281
+![281](https://local.pokemon.jp/img/p/manhole/79e3301122aa9216bddd37f23732abff_l.png "281")
+### Pokémon Featured: Chansey, Vanillish
+### Coordinates: 37.656175, 140.089399
+---
+# Date
+## 280
+![280](https://local.pokemon.jp/img/p/manhole/1e3c96c981ef34d92e733c0ecf2590cb_l.png "280")
+### Pokémon Featured: Chansey, Rillaboom
+### Coordinates: 37.760799, 140.691402
+---
+# Nihonmatsu
+## 279
+![279](https://local.pokemon.jp/img/p/manhole/0d3e282f7e5ed43a671c095bc963353b_l.png "279")
+### Pokémon Featured: Chansey, Swirlix
+### Coordinates: 37.593347, 140.464001
+---
 # Iitate
 ## 254
 ![254](https://local.pokemon.jp/img/p/manhole/3260540897d76440bd153d443780999d_l.png "254")
